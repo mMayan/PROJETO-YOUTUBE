@@ -17,7 +17,6 @@ Esse é um projeto da Escola de programadores onde consiste em criar uma pagina 
 - Barbara
 - Deivid
 - Juliana
-- Mayan
 - Victor
 
 🎁 Expressões de gratidão
