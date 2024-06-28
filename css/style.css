@@ -4,8 +4,18 @@
     --color-darkGrey: #606060;
 }
 
+
 h2 {
     font-family: var(--fonte-principal);
+}
+a {
+    text-decoration: none; /* Remove o sublinhado */
+    color: black; /* Define a cor inicial do link */
+}
+
+a:visited {
+    color: black;
+    cursor: pointer;
 }
 
 p {
@@ -18,6 +28,7 @@ p {
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
+    
 }
 
 .logo {
@@ -136,6 +147,13 @@ li {
     display: flex;
     flex-direction: column;
     gap: .3rem;
+}
+
+.video-shorts{
+    max-width: 20px;
+    display: flex;
+    flex-direction: row;
+    gap:.3rem;
 }
 
 .shorts_youtube {
