@@ -8,9 +8,12 @@
 h2 {
     font-family: var(--fonte-principal);
 }
+
 a {
-    text-decoration: none; /* Remove o sublinhado */
-    color: black; /* Define a cor inicial do link */
+    text-decoration: none;
+    /* Remove o sublinhado */
+    color: black;
+    /* Define a cor inicial do link */
 }
 
 a:visited {
@@ -28,7 +31,7 @@ p {
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    
+
 }
 
 .logo {
@@ -131,6 +134,7 @@ li {
     height: 36px;
 }
 
+
 .video-titulo {
     font-size: 1rem;
     font-weight: 400;
@@ -149,11 +153,11 @@ li {
     gap: .3rem;
 }
 
-.video-shorts{
+.video-shorts {
     max-width: 20px;
     display: flex;
     flex-direction: row;
-    gap:.3rem;
+    gap: .3rem;
 }
 
 .shorts_youtube {
