@@ -134,6 +134,17 @@ li {
     height: 36px;
 }
 
+.video-container .botao_mais {
+    display: flex;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.video-container .botao_mais img {
+    height: 16px;
+}
+
 
 .video-titulo {
     font-size: 1rem;
