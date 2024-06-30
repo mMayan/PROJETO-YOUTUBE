@@ -334,3 +334,11 @@ button:hover {
     border: none;
     background: #F2F2F2;
 }
+
+.questionario .novo_comentario {
+    height: 24px;
+    padding: 8px 132px 8px 11px;
+    border-radius: 10px;
+    border: none;
+    background: #F2F2F2;
+}
