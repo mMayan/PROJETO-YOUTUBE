@@ -123,6 +123,11 @@ li {
     width: 100%;
 }
 
+.icone{
+    width: 36px;
+    height: 36px;
+}
+
 .video-container {
     display: flex;
     gap: .8rem;
